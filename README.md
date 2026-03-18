@@ -5,6 +5,6 @@
 📍 Today I built my first AI agent!
 
 ### Current Focus
-- LangGraph
+- Langchain
 - AI Agents
-- FastAPI
+- python
